@@ -50,8 +50,6 @@ polkadot-mvp/
 
 ## 📸 Screenshots
 
-> ⚠️ Place your screenshots in the `/assets` directory and reference them like below:
-
 ```
 assets/
 ├── connect-wallet.png
@@ -61,9 +59,13 @@ assets/
 ```
 
 ```md
-![Connect Wallet](assets/connect-wallet.png)
-![Contracts Page](assets/contracts.png)
-![Profile Page](assets/profile.png)
+!(assets/Screenshot 2025-04-20 102411.png)
+!(assets/Screenshot 2025-04-20 102505.png)
+!(assets/Screenshot 2025-04-20 102456.png)
+!(assets/Screenshot 2025-04-20 102447.png)
+!(assets/Screenshot 2025-04-20 102438.png)
+!(assets/Screenshot 2025-04-20 102426.png)
+
 ```
 
 ---
