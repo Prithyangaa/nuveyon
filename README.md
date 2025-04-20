@@ -59,12 +59,12 @@ assets/
 ```
 
 ```md
-!(assets/Screenshot 2025-04-20 102411.png)
-!(assets/Screenshot 2025-04-20 102505.png)
-!(assets/Screenshot 2025-04-20 102456.png)
-!(assets/Screenshot 2025-04-20 102447.png)
-!(assets/Screenshot 2025-04-20 102438.png)
-!(assets/Screenshot 2025-04-20 102426.png)
+![Connect Wallet](assets/Screenshot%202025-04-20%20102411.png)
+![Profile Page](assets/Screenshot%202025-04-20%20102426.png)
+![Update Profile](assets/Screenshot%202025-04-20%20102438.png)
+![Contract Creation](assets/Screenshot%202025-04-20%20102447.png)
+![Contract Display](assets/Screenshot%202025-04-20%20102456.png)
+![Notifications](assets/Screenshot%202025-04-20%20102505.png)
 
 ```
 
@@ -73,7 +73,7 @@ assets/
 ## 🎥 Demo Video
 
 ```md
-[![Watch the demo](assets/video-thumbnail.png)](https://www.loom.com/share/YOUR_VIDEO_LINK)
+[![Watch the demo](assets/Screenshot%202025-04-20%20102505.png)](assets/nuveyon_demo.mp4)
 ```
 
 ---
