@@ -101,7 +101,6 @@ npm run dev
 
 ### 4. Contract Deployment
 ```bash
-cd ../work_contract
 cargo +nightly contract build
 ```
 Upload the generated `.contract` file (found in `target/ink/`) to:
