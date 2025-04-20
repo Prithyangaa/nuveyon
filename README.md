@@ -50,14 +50,6 @@ polkadot-mvp/
 
 ## 📸 Screenshots
 
-```
-assets/
-├── connect-wallet.png
-├── contracts.png
-├── profile.png
-├── video-thumbnail.png
-```
-
 ```md
 ![Connect Wallet](assets/Screenshot%202025-04-20%20102411.png)
 ![Profile Page](assets/Screenshot%202025-04-20%20102426.png)
@@ -73,7 +65,7 @@ assets/
 ## 🎥 Demo Video
 
 ```md
-[![Watch the demo](assets/Screenshot%202025-04-20%20102505.png)](assets/nuveyon_demo.mp4)
+[![Watch the demo](assets/Screenshot%202025-04-20%20102505.png)](nuveyon_demo.mp4)
 ```
 
 ---
